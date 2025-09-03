@@ -37,7 +37,7 @@ _This report is split into two distinct pages to provide both a high-level summa
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](../Page%201.png)
+![Data Jobs Dashboard Page 1](../Power%20BI%20Dashboards/Page%201.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 

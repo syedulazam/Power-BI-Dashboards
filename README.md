@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
 <a href="https://app.powerbi.com/links/oK_VBkCx81?ctid=760f1af0-6917-41c6-9a3e-856833e75f1a&pbi_source=linkShare" target="_blank">
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard">
+  <img src="Page%201" alt="Data Jobs Dashboard">
 </a>
 
 > <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
@@ -43,7 +43,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](../Power%20BI%20Dashboards/Page%202.png)
+![Data Jobs Dashboard Page 2](Page%202.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
